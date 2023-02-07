@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Wizard.Lib", "Inv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.Console.Lib", "Inventory.Console.Lib\Inventory.Console.Lib.csproj", "{AB10343F-114C-42FF-8B94-166DE393447C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory.ConsoleLib.ConsoleApp", "Inventory.ConsoleLib.ConsoleApp\Inventory.ConsoleLib.ConsoleApp.csproj", "{770011E2-A3BB-467E-B818-31302BD9EBB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{AB10343F-114C-42FF-8B94-166DE393447C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB10343F-114C-42FF-8B94-166DE393447C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB10343F-114C-42FF-8B94-166DE393447C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770011E2-A3BB-467E-B818-31302BD9EBB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770011E2-A3BB-467E-B818-31302BD9EBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770011E2-A3BB-467E-B818-31302BD9EBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770011E2-A3BB-467E-B818-31302BD9EBB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
